@@ -2,12 +2,12 @@
 
 # PyCAM: a toolpath generator
 
-PyCAM generates toolpaths (GCode) based on 2D or 3D models for 3-axis CNC machining.
+PyCAM generates toolpaths in GCode, based on 2D or 3D models, for 3-axis CNC machines to run.  PyCAM is used for 3-axis CNC machining.
 
 
 ## Running
 
-Extract the archive or clone the repository and run `scripts/pycam`.
+Extract the archive, or clone the repository. Next, run: `scripts/pycam`.
 
 
 ## Usage
